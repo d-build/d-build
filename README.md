@@ -38,7 +38,7 @@ Hi there! I'm Mekunint We. <br>
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;
   <!-- Resume -->
-  <a href="https://drrive.google.com/file/d/1uhTwY4CsHQvfEu9Est3k1-IIfuFtnzLK/view?usp=drivesdkk">
+  <a href="https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto">
     <img src="https://img.shields.io/badge/Résumé-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Résumé" />
   </a>
 </p>
