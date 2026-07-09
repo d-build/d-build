@@ -35,7 +35,7 @@ Hi there! I'm Mekunint We. <br>
 
   <!-- Gmail -->
   <a href="mailto:mw908334@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://drive.google.com/file/d/1Ecflqhr8bbpN2jLLS3Q4VcYQ-f1Al-1W/view?usp=drive_link" alt="Email" />
   </a>&nbsp;
   <!-- Resume -->
   <a href="https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto">
