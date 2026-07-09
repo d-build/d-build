@@ -19,28 +19,7 @@ Hi there! I'm Mekunint We. <br>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20if%20you%20find%20me%20cool!;Star%20your%20favorite%20repos.;Fast%20learner%20%E2%80%94%20always%20leveling%20up.&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22" />
   </a>
 </p>
-
-<div align="center"> Social and Contact Info. </div><br>
-
-<p align="center">
-  <!-- Portfolio -->
-  <a href="https://mypof.vercel.appp/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>&nbsp;
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/meunint-stotaw-973770394/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-
-  <!-- Gmail -->
-  <a href="mailto:mw908334@gmail.com">
-    <img src="https://drive.google.com/file/d/1Ecflqhr8bbpN2jLLS3Q4VcYQ-f1Al-1W/view?usp=drive_link" alt="Email" />
-  </a>&nbsp;
   
-</p>
-
-
 <!-- BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Interest-Data_Structure_and_Algorithm_|_AI_|_Machine_Learning-blue" />
