@@ -160,7 +160,7 @@ Hi there! I'm Mekunint We. <br>
 
 </div>
 
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics
 <table>
 <tr>
 <td>
@@ -172,4 +172,4 @@ Hi there! I'm Mekunint We. <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meku-nint&theme=highcontrast&layout=compact" />
 </td>
 </tr>
-</table>
+</table>-->
